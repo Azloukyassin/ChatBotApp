@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBotApp", "ChatBotApp\ChatBotApp.csproj", "{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Release|iPhone.Build.0 = Release|iPhone
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Release|iPhone.Deploy.0 = Release|iPhone
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{6F7A5FA4-97E8-49D0-9AB7-88507B469E2B}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC311BC7-7A6B-4ED0-8D31-48EF5804820B}
+	EndGlobalSection
+EndGlobal
